@@ -5,10 +5,10 @@ This is a web-based application that reads RSS feeds. [Jasmine](http://jasmine.g
 
 ## How to run the application?
 
-You can view the app [here}(https://cwaku.github.io/Feed-Reader-Testing)
+You can view the app [here](https://cwaku.github.io/Feed-Reader-Testing)
 
 To run the application locally, clone or download the ZIP and then open `index.html` in your browser.
-### If feeds do not load and Jasmine says `No specs found`, that means your browser is thinking that the scripts are unsafe and thereby blocking the scripts from loading. You simply need to allow the browser to load the scripts.
+###### If feeds do not load and Jasmine says `No specs found`, that means your browser is thinking that the scripts are unsafe and thereby blocking the scripts from loading. You simply need to allow the browser to load the scripts.
 
 ## Why this Project?
 
