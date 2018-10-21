@@ -1,6 +1,6 @@
 # Project Overview
 
-This is a web-based application that reads RSS feeds. Uses [Jasmine](http://jasmine.github.io/) to write a number of tests against a pre-existing application.
+This is a web-based application that reads RSS feeds. Uses [Jasmine](http://jasmine.github.io/) as a test tool to verify that it works as it is required to.
 
 ## How to run the application?
 
